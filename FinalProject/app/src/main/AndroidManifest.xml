@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.finalproject">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/img"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/img"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FinalProject">
+        <activity
+            android:name=".desk_lenovo_tpe14"
+            android:exported="false" />
+        <activity
+            android:name=".desk_lenovo_legioni5"
+            android:exported="false" />
+        <activity
+            android:name=".desk_asus_z14flip"
+            android:exported="false" />
+        <activity
+            android:name=".desk_asus_z13flip"
+            android:exported="false" />
+        <activity
+            android:name=".desk_acer_spin5"
+            android:exported="false" />
+        <activity
+            android:name=".desk_acer_spin_3"
+            android:exported="false" />
+        <activity
+            android:name=".all_laptop"
+            android:exported="false" />
+        <activity
+            android:name=".acerspin3"
+            android:exported="false" />
+        <activity
+            android:name=".rog5s"
+            android:exported="false" />
+        <activity
+            android:name=".zenfone5s"
+            android:exported="false" />
+        <activity
+            android:name=".vivov20"
+            android:exported="false" />
+        <activity
+            android:name=".vivoy12"
+            android:exported="false" />
+        <activity
+            android:name=".oppo2"
+            android:exported="false" />
+        <activity
+            android:name=".oppo1"
+            android:exported="false" />
+        <activity
+            android:name=".laptop_acer"
+            android:exported="false" />
+        <activity
+            android:name=".laptop_asus"
+            android:exported="false" />
+        <activity
+            android:name=".hp_oppo"
+            android:exported="false" />
+        <activity
+            android:name=".laptop_lenovo"
+            android:exported="false" />
+        <activity
+            android:name=".asus"
+            android:exported="false" />
+        <activity
+            android:name=".Vivo"
+            android:exported="false" />
+        <activity
+            android:name=".all_phone"
+            android:exported="false" />
+        <activity
+            android:name=".testt"
+            android:exported="false" />
+        <activity
+            android:name=".testing"
+            android:exported="false" />
+        <activity
+            android:name=".home"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

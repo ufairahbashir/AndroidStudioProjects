@@ -1,0 +1,118 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		mobile_skripsi
+	 *	@date 		1653923335174
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/iphone_11_pro___x___3" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_iphone_11_pro___x___3_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__iphone_11_pro___x___3_ek2"
+					android:background="@drawable/_bg__iphone_11_pro___x___3_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="375dp"
+					android:layout_height="812dp" />
+
+				<ImageView android:id="@+id/_samsung_a73_1"
+					android:src="@drawable/_samsung_a73_1"
+					android:contentDescription="_samsung_a73_1"
+					 android:layout_marginStart="122dp"
+					android:layout_marginTop="159dp"
+					android:layout_width="133dp"
+					android:layout_height="176dp" />
+
+				<ImageView android:id="@+id/_samsung_a33_1"
+					android:src="@drawable/_samsung_a33_1"
+					android:contentDescription="_samsung_a33_1"
+					 android:layout_marginStart="127dp"
+					android:layout_marginTop="485dp"
+					android:layout_width="124dp"
+					android:layout_height="175dp" />
+
+				<TextView android:id="@+id/_samsung_a53"
+					android:fontFamily="Hammersmith One"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="113dp"
+					android:layout_marginTop="679dp"
+					android:layout_width="163dp"
+					android:layout_height="42dp"
+					android:text="@string/_samsung_a53_string"
+					 />
+
+				<TextView android:id="@+id/_samsung_a73"
+					android:fontFamily="Hammersmith One"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="108dp"
+					android:layout_marginTop="355dp"
+					android:layout_width="162dp"
+					android:layout_height="42dp"
+					android:text="@string/_samsung_a73_string"
+					 />
+
+				<ImageView android:id="@+id/black_samsung_logo_png_21_2"
+					android:src="@drawable/black_samsung_logo_png_21_2"
+					android:contentDescription="black_samsung_logo_png_21_2"
+					 android:layout_marginStart="77dp"
+					android:layout_marginTop="78dp"
+					android:layout_width="222dp"
+					android:layout_height="34dp" />
+
+				<ImageView android:id="@+id/_back_icon_1"
+					android:src="@drawable/_back_icon_1"
+					android:contentDescription="_back_icon_1"
+					 android:layout_marginStart="22dp"
+					android:layout_marginTop="15dp"
+					android:layout_width="43.02dp"
+					android:layout_height="42dp" />
+
+			</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

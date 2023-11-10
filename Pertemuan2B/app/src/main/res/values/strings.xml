@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pertemuan 3</string>
+    <string name="biodata">BIODATA</string>
+    <string name="nim_h071201091">NIM H071201091</string>
+    <string name="ufairah_damara_bashir">Ufairah Damara Bashir</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="welcome">WELCOME</string>
+    <string name="next">next</string>
+    <string name="nothing_interactive_here">nothing interactive here</string>
+</resources>

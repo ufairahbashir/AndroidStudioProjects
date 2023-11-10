@@ -1,0 +1,120 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		mobile_skripsi
+	 *	@date 		1653923335174
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/iphone_11_pro___x___4" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_iphone_11_pro___x___4_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__iphone_11_pro___x___4_ek2"
+					android:background="@drawable/_bg__iphone_11_pro___x___4_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="375dp"
+					android:layout_height="812dp" />
+
+				<ImageView android:id="@+id/logo_vivo_2"
+					android:src="@drawable/logo_vivo_2"
+					android:contentDescription="logo_vivo_2"
+					 android:layout_marginStart="122dp"
+					android:layout_marginTop="63dp"
+					android:layout_width="131dp"
+					android:layout_height="37dp" />
+
+				<ImageView android:id="@+id/_vivo_v23_1"
+					android:src="@drawable/_vivo_v23_1"
+					android:contentDescription="_vivo_v23_1"
+					 android:layout_marginStart="103dp"
+					android:layout_marginTop="159dp"
+					android:layout_width="150dp"
+					android:layout_height="193dp" />
+
+				<TextView android:id="@+id/_vivo_v23"
+					android:fontFamily="Hammersmith One"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="136dp"
+					android:layout_marginTop="361dp"
+					android:layout_width="92dp"
+					android:layout_height="42dp"
+					android:text="@string/_vivo_v23_string"
+					 />
+
+				<TextView android:id="@+id/_vivo_v20"
+					android:fontFamily="Hammersmith One"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="135dp"
+					android:layout_marginTop="677dp"
+					android:layout_width="94dp"
+					android:layout_height="42dp"
+					android:text="@string/_vivo_v20_string"
+					 />
+
+				<ImageView android:id="@+id/_v20"
+					android:src="@drawable/_v20"
+					android:contentDescription="_v20"
+					 android:layout_marginStart="112dp"
+					android:layout_marginTop="488dp"
+					android:layout_width="141dp"
+					android:layout_height="177dp" />
+
+				<ImageView android:id="@+id/_back_icon_3"
+					android:src="@drawable/_back_icon_3"
+					android:contentDescription="_back_icon_3"
+					 android:layout_marginStart="18dp"
+					android:layout_marginTop="17dp"
+					android:layout_width="43dp"
+					android:layout_height="34dp" />
+
+			</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

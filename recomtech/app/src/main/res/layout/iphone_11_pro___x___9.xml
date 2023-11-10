@@ -1,0 +1,118 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		mobile_skripsi
+	 *	@date 		1653923335174
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/iphone_11_pro___x___9" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_iphone_11_pro___x___9_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__iphone_11_pro___x___9_ek2"
+					android:background="@drawable/_bg__iphone_11_pro___x___9_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="375dp"
+					android:layout_height="812dp" />
+
+				<ImageView android:id="@+id/logo_nikon_2"
+					android:src="@drawable/logo_nikon_2"
+					android:contentDescription="logo_nikon_2"
+					 android:layout_marginStart="100dp"
+					android:layout_marginTop="66dp"
+					android:layout_width="176.89dp"
+					android:layout_height="45dp" />
+
+				<ImageView android:id="@+id/_nikon_dslr_d3500_1"
+					android:src="@drawable/_nikon_dslr_d3500_1"
+					android:contentDescription="_nikon_dslr_d3500_1"
+					 android:layout_marginStart="114dp"
+					android:layout_marginTop="154dp"
+					android:layout_width="148.44dp"
+					android:layout_height="140dp" />
+
+				<TextView android:id="@+id/_nikon_d3500"
+					android:fontFamily="Hammersmith One"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="112dp"
+					android:layout_marginTop="329dp"
+					android:layout_width="140dp"
+					android:layout_height="39dp"
+					android:text="@string/_nikon_d3500_string"
+					 />
+
+				<TextView android:id="@+id/_nikon_d5100"
+					android:fontFamily="Hammersmith One"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="114dp"
+					android:layout_marginTop="638dp"
+					android:layout_width="136dp"
+					android:layout_height="39dp"
+					android:text="@string/_nikon_d5100_string"
+					 />
+
+				<ImageView android:id="@+id/_nikon_dslr_d5100_1"
+					android:src="@drawable/_nikon_dslr_d5100_1"
+					android:contentDescription="_nikon_dslr_d5100_1"
+					 android:layout_marginStart="114dp"
+					android:layout_marginTop="452dp"
+					android:layout_width="148.66dp"
+					android:layout_height="140dp" />
+
+				<ImageView android:id="@+id/_back_icon_3_ek4"
+					android:src="@drawable/_back_icon_3_ek4"
+					android:contentDescription="_back_icon_3_ek4"
+					 android:layout_marginStart="18dp"
+					android:layout_marginTop="10dp"
+					android:layout_width="42dp"
+					android:layout_height="42dp" />
+
+			</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "376319931122",
+    "project_id": "simulasi-51cb4",
+    "storage_bucket": "simulasi-51cb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376319931122:android:1d9345d154a73318d1566b",
+        "android_client_info": {
+          "package_name": "com.example.simulasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376319931122-t272nu40vr1a430fo57jgh2dug0ifi21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "om.example.simulasi",
+            "certificate_hash": "63c9d69357077060eacac0df4a42f74d68279b70"
+          }
+        },
+        {
+          "client_id": "376319931122-beb72gcpc4ek4fk0078b6pvua5o0una6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpW2Rvr-b1L1F9AXt2DjxizDhOvy-8tPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376319931122-beb72gcpc4ek4fk0078b6pvua5o0una6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

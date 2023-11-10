@@ -1,0 +1,118 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		mobile_skripsi
+	 *	@date 		1653923335174
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/iphone_11_pro___x___5" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_iphone_11_pro___x___5_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__iphone_11_pro___x___5_ek2"
+					android:background="@drawable/_bg__iphone_11_pro___x___5_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="375dp"
+					android:layout_height="812dp" />
+
+				<ImageView android:id="@+id/logo_oppo_2"
+					android:src="@drawable/logo_oppo_2"
+					android:contentDescription="logo_oppo_2"
+					 android:layout_marginStart="111dp"
+					android:layout_marginTop="81dp"
+					android:layout_width="154dp"
+					android:layout_height="37dp" />
+
+				<ImageView android:id="@+id/_oppo_a16"
+					android:src="@drawable/_oppo_a16"
+					android:contentDescription="_oppo_a16"
+					 android:layout_marginStart="128dp"
+					android:layout_marginTop="173dp"
+					android:layout_width="120.94dp"
+					android:layout_height="170dp" />
+
+				<ImageView android:id="@+id/_oppo_reno_7_z_5g"
+					android:src="@drawable/_oppo_reno_7_z_5g"
+					android:contentDescription="_oppo_reno_7_z_5g"
+					 android:layout_marginStart="133dp"
+					android:layout_marginTop="494dp"
+					android:layout_width="119dp"
+					android:layout_height="170dp" />
+
+				<TextView android:id="@+id/_oppo_a16_ek1"
+					android:fontFamily="Hammersmith One"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="140dp"
+					android:layout_marginTop="374dp"
+					android:layout_width="104dp"
+					android:layout_height="39dp"
+					android:text="@string/_oppo_a16_ek1_string"
+					 />
+
+				<TextView android:id="@+id/_oppo_reno_7"
+					android:fontFamily="Hammersmith One"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="125dp"
+					android:layout_marginTop="695dp"
+					android:layout_width="154dp"
+					android:layout_height="43dp"
+					android:text="@string/_oppo_reno_7_string"
+					 />
+
+				<ImageView android:id="@+id/_back_icon_3_ek1"
+					android:src="@drawable/_back_icon_3_ek1"
+					android:contentDescription="_back_icon_3_ek1"
+					 android:layout_marginStart="21dp"
+					android:layout_marginTop="12dp"
+					android:layout_width="34dp"
+					android:layout_height="31dp" />
+
+			</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

@@ -1,0 +1,120 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		mobile_skripsi
+	 *	@date 		1653923335174
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/iphone_11_pro___x___7" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_iphone_11_pro___x___7_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__iphone_11_pro___x___7_ek2"
+					android:background="@drawable/_bg__iphone_11_pro___x___7_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="375dp"
+					android:layout_height="812dp" />
+
+				<ImageView android:id="@+id/asus_logo_1_ek1"
+					android:src="@drawable/asus_logo_1_ek1"
+					android:contentDescription="asus_logo_1_ek1"
+					 android:layout_marginStart="98dp"
+					android:layout_marginTop="71dp"
+					android:layout_width="180dp"
+					android:layout_height="37dp" />
+
+				<ImageView android:id="@+id/_zenbook_pro_dual_1"
+					android:src="@drawable/_zenbook_pro_dual_1"
+					android:contentDescription="_zenbook_pro_dual_1"
+					 android:layout_marginStart="71dp"
+					android:layout_marginTop="182dp"
+					android:layout_width="233dp"
+					android:layout_height="166dp" />
+
+				<TextView android:id="@+id/_asus_zenbook_pro_duo"
+					android:fontFamily="Hammersmith One"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="68dp"
+					android:layout_marginTop="375dp"
+					android:layout_width="250dp"
+					android:layout_height="39dp"
+					android:text="@string/_asus_zenbook_pro_duo_string"
+					 />
+
+				<ImageView android:id="@+id/_zenbook_14_1"
+					android:src="@drawable/_zenbook_14_1"
+					android:contentDescription="_zenbook_14_1"
+					 android:layout_marginStart="76dp"
+					android:layout_marginTop="497dp"
+					android:layout_width="224dp"
+					android:layout_height="144dp" />
+
+				<TextView android:id="@+id/_asus_zenbook_14"
+					android:fontFamily="Hammersmith One"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="101dp"
+					android:layout_marginTop="674dp"
+					android:layout_width="184dp"
+					android:layout_height="39dp"
+					android:text="@string/_asus_zenbook_14_string"
+					 />
+
+				<ImageView android:id="@+id/_back_icon_4"
+					android:src="@drawable/_back_icon_4"
+					android:contentDescription="_back_icon_4"
+					 android:layout_marginStart="16dp"
+					android:layout_marginTop="19dp"
+					android:layout_width="44dp"
+					android:layout_height="34dp" />
+
+			</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

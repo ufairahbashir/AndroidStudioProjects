@@ -1,0 +1,354 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		mobile_skripsi
+	 *	@date 		1653923335174
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/iphone_11_pro___x___16" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_iphone_11_pro___x___16_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__iphone_11_pro___x___16_ek2"
+					android:background="@drawable/_bg__iphone_11_pro___x___16_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="375dp"
+					android:layout_height="812dp" />
+
+				<ImageView android:id="@+id/rectangle_10_ek1"
+					android:src="@drawable/rectangle_10_ek1"
+					android:contentDescription="rectangle_10_ek1"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="530dp"
+					android:layout_width="375dp"
+					android:layout_height="282dp" />
+
+
+				<RelativeLayout android:id="@+id/component_9_ek1"
+					android:layout_marginTop="547dp"
+					android:layout_marginStart="21dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/rectangle_4_ek5"
+						android:src="@drawable/rectangle_4_ek5"
+						android:contentDescription="rectangle_4_ek5"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="121dp"
+						android:layout_height="23dp" />
+
+					<TextView android:id="@+id/tambah_ulasan_ek10"
+						android:fontFamily="Abel"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="14sp"
+						android:textColor="@color/_bg__iphone_11_pro___x___1_ek2_color"
+						android:layout_marginLeft="18dp"
+						android:layout_marginTop="3dp"
+						android:layout_width="93dp"
+						android:layout_height="28dp"
+						android:text="@string/tambah_ulasan_ek10_string"
+						 />
+
+					<TextView android:id="@+id/tambah_ulasan_ek11"
+						android:fontFamily="Abel"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="14sp"
+						android:textColor="@color/_bg__iphone_11_pro___x___1_ek2_color"
+						android:layout_marginLeft="18dp"
+						android:layout_marginTop="3dp"
+						android:layout_width="93dp"
+						android:layout_height="28dp"
+						android:text="@string/tambah_ulasan_ek11_string"
+						 />
+
+				</RelativeLayout>
+
+				<ImageView android:id="@+id/oppo_reno_7_z_5g_ek1"
+					android:src="@drawable/oppo_reno_7_z_5g_ek1"
+					android:contentDescription="oppo_reno_7_z_5g_ek1"
+					 android:layout_marginStart="31dp"
+					android:layout_marginTop="66dp"
+					android:layout_width="173.6dp"
+					android:layout_height="248dp" />
+
+
+				<RelativeLayout android:id="@+id/line_1_ek10"
+					android:layout_marginTop="66dp"
+					android:layout_marginStart="229dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/line_1_ek11"
+						android:background="@drawable/line_1_ek11_shape"
+						 android:layout_marginStart="-123dp"
+						android:layout_marginTop="124dp"
+						android:layout_width="248dp"
+						android:layout_height="1dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/get_it_on_ek10"
+					android:layout_marginTop="61dp"
+					android:layout_marginStart="243dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<TextView android:id="@+id/get_it_on_ek11"
+						android:fontFamily="Harmattan"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="20sp"
+						android:textColor="@color/smartphone_color"
+						android:layout_marginLeft="-3dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="76dp"
+						android:layout_height="48dp"
+						android:text="@string/get_it_on_ek11_string"
+						 />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/rp_5__999_000_ek2"
+					android:fontFamily="Hammersmith One"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="16sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="219dp"
+					android:layout_marginTop="95dp"
+					android:layout_width="160dp"
+					android:layout_height="39dp"
+					android:text="@string/rp_5__999_000_ek2_string"
+					 />
+
+
+				<RelativeLayout android:id="@+id/component_2_ek5"
+					android:layout_marginTop="123dp"
+					android:layout_marginStart="243dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/logo_tokopedia_1_ek5"
+						android:src="@drawable/logo_tokopedia_1_ek5"
+						android:contentDescription="logo_tokopedia_1_ek5"
+						 android:layout_marginStart="2dp"
+						android:layout_marginTop="32dp"
+						android:layout_width="80dp"
+						android:layout_height="30dp" />
+
+					<ImageView android:id="@+id/logo_shopee_1_ek5"
+						android:src="@drawable/logo_shopee_1_ek5"
+						android:contentDescription="logo_shopee_1_ek5"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="81dp"
+						android:layout_height="29dp" />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/oppo_reno7_z_5g"
+					android:fontFamily="Hammersmith One"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:shadowRadius="4"
+					android:shadowColor="#000000"
+					android:shadowDx="0"
+					android:shadowDy="4"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="16dp"
+					android:layout_marginTop="324dp"
+					android:layout_width="201dp"
+					android:layout_height="46dp"
+					android:text="@string/oppo_reno7_z_5g_string"
+					 />
+
+				<TextView android:id="@+id/memori_ek5"
+					android:fontFamily="Acme"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="16sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="28dp"
+					android:layout_marginTop="352dp"
+					android:layout_width="63dp"
+					android:layout_height="31dp"
+					android:text="@string/memori_ek5_string"
+					 />
+
+				<TextView android:id="@+id/baterai_ek5"
+					android:fontFamily="Acme"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="16sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="28dp"
+					android:layout_marginTop="385dp"
+					android:layout_width="60dp"
+					android:layout_height="31dp"
+					android:text="@string/baterai_ek5_string"
+					 />
+
+				<TextView android:id="@+id/ukuran_ek5"
+					android:fontFamily="Acme"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="16sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="28dp"
+					android:layout_marginTop="418dp"
+					android:layout_width="61dp"
+					android:layout_height="31dp"
+					android:text="@string/ukuran_ek5_string"
+					 />
+
+				<TextView android:id="@+id/ram_ek5"
+					android:fontFamily="Acme"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="16sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="28dp"
+					android:layout_marginTop="451dp"
+					android:layout_width="45dp"
+					android:layout_height="31dp"
+					android:text="@string/ram_ek5_string"
+					 />
+
+				<TextView android:id="@+id/camera_ek7"
+					android:fontFamily="Acme"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="16sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="28dp"
+					android:layout_marginTop="484dp"
+					android:layout_width="63dp"
+					android:layout_height="31dp"
+					android:text="@string/camera_ek7_string"
+					 />
+
+				<TextView android:id="@+id/_128gb"
+					android:fontFamily="Abel"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="16sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="89dp"
+					android:layout_marginTop="352dp"
+					android:layout_width="55dp"
+					android:layout_height="31dp"
+					android:text="@string/_128gb_string"
+					 />
+
+				<TextView android:id="@+id/_8_gb_ek4"
+					android:fontFamily="Abel"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="16sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="89dp"
+					android:layout_marginTop="451dp"
+					android:layout_width="42dp"
+					android:layout_height="31dp"
+					android:text="@string/_8_gb_ek4_string"
+					 />
+
+				<TextView android:id="@+id/_64_mp_ek2"
+					android:fontFamily="Abel"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="16sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="89dp"
+					android:layout_marginTop="484dp"
+					android:layout_width="52dp"
+					android:layout_height="31dp"
+					android:text="@string/_64_mp_ek2_string"
+					 />
+
+				<TextView android:id="@+id/_5000_mah_ek3"
+					android:fontFamily="Abel"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="16sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="89dp"
+					android:layout_marginTop="385dp"
+					android:layout_width="76dp"
+					android:layout_height="31dp"
+					android:text="@string/_5000_mah_ek3_string"
+					 />
+
+				<TextView android:id="@+id/_99_8_cm2"
+					android:fontFamily="Abel"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="16sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="89dp"
+					android:layout_marginTop="418dp"
+					android:layout_width="71dp"
+					android:layout_height="31dp"
+					android:text="@string/_99_8_cm2_string"
+					 />
+
+				<ImageView android:id="@+id/_back_icon_3_ek9"
+					android:src="@drawable/_back_icon_3_ek9"
+					android:contentDescription="_back_icon_3_ek9"
+					 android:layout_marginStart="15dp"
+					android:layout_marginTop="13dp"
+					android:layout_width="34dp"
+					android:layout_height="31dp" />
+
+			</RelativeLayout>
+
+
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

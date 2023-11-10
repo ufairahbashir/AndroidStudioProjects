@@ -1,0 +1,118 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		mobile_skripsi
+	 *	@date 		1653923335174
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/iphone_11_pro___x___8" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_iphone_11_pro___x___8_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__iphone_11_pro___x___8_ek2"
+					android:background="@drawable/_bg__iphone_11_pro___x___8_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="375dp"
+					android:layout_height="812dp" />
+
+				<ImageView android:id="@+id/_canon_eos_m50_mark_ii_1"
+					android:src="@drawable/_canon_eos_m50_mark_ii_1"
+					android:contentDescription="_canon_eos_m50_mark_ii_1"
+					 android:layout_marginStart="100dp"
+					android:layout_marginTop="451dp"
+					android:layout_width="175.34dp"
+					android:layout_height="155dp" />
+
+				<ImageView android:id="@+id/logo_canon_2"
+					android:src="@drawable/logo_canon_2"
+					android:contentDescription="logo_canon_2"
+					 android:layout_marginStart="98dp"
+					android:layout_marginTop="54dp"
+					android:layout_width="179dp"
+					android:layout_height="48dp" />
+
+				<ImageView android:id="@+id/_canon_eos_m200_1"
+					android:src="@drawable/_canon_eos_m200_1"
+					android:contentDescription="_canon_eos_m200_1"
+					 android:layout_marginStart="105dp"
+					android:layout_marginTop="159dp"
+					android:layout_width="165.38dp"
+					android:layout_height="120dp" />
+
+				<TextView android:id="@+id/_canon_eos_m200__mirorrless_"
+					android:fontFamily="Hammersmith One"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="100dp"
+					android:layout_marginTop="327dp"
+					android:layout_width="184dp"
+					android:layout_height="64dp"
+					android:text="@string/_canon_eos_m200__mirorrless__string"
+					 />
+
+				<TextView android:id="@+id/_canon_eos_mark_ii"
+					android:fontFamily="Hammersmith One"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="94dp"
+					android:layout_marginTop="631dp"
+					android:layout_width="195dp"
+					android:layout_height="39dp"
+					android:text="@string/_canon_eos_mark_ii_string"
+					 />
+
+				<ImageView android:id="@+id/_back_icon_3_ek3"
+					android:src="@drawable/_back_icon_3_ek3"
+					android:contentDescription="_back_icon_3_ek3"
+					 android:layout_marginStart="16dp"
+					android:layout_marginTop="12dp"
+					android:layout_width="43dp"
+					android:layout_height="35dp" />
+
+			</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

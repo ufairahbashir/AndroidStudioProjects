@@ -1,0 +1,322 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="home">HOME</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="oppo_reno_7">OPPO RENO 7</string>
+
+    <string name="oppo_reno_7_z_5g">OPPO RENO 7 Z 5G</string>
+    <string name="vivo_Y12" />
+    <string name="vivo_y12">VIVO Y12</string>
+    <string name="vivo_v20">VIVO V20</string>
+    <string name="ASUS_ZENFONE">ASUS ZENFONE</string>
+    <string name="title_activity_opporeno7">opporeno7</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!--    kategori laptop - acer - acer spin 3-->
+    <string name="tittleAcersplin3"><b>Thin, Light, and Versatile</b>
+        <font color="#878787">\nWhether you’re using the screen to
+        read, take notes, sketch, or share your work –it rotates with complete ease. When urgency
+        strikes, quickly modify the backlight (3 levels), caps lock, and speakers with a push of a button.
+        </font>
+        \n\n<b>Drawing and Writing on the Go</b>
+        <font color="#878787">\nYou’re going to want a laptop with a stylus to stay ready on the go. The dockable Acer
+        Active Stylus with Wacom AES 1.01,2 can be docked to recharge the stylus in just 15 seconds
+        for 90 minutes of unfettered use.
+        </font>
+
+    </string>
+
+    <string name="deskAcerSplin3"><b>Processor</b> <font color="#878787">Intel Core i5 (8th Gen) Processor</font>
+        \n<b>RAM</b> <font color="#878787">8 GB DDR4 RAM</font>
+        \n<b>Storage</b> <font color="#878787">1 TB HDD</font>
+        \n<b>Display</b> <font color="#878787">14" (35.56 cm) display, 1920 x 1080px</font></string>
+
+
+    <!--    kategori laptop - acer - acer spin 5-->
+    <string name="tittleAcersplin5"><b>TBrilliant 14” Touchscreen Display</b>
+        <font color="#878787">\nWhether you’re using the screen to read, take notes, sketch,
+            or share your work – it rotates with complete ease and feels easy on the eyes thanks
+            to the low-blue-light TÜV Certified2 display.
+        </font>
+        \n\n<b>Ready for Any Task</b>
+        <font color="#878787">\nBuilt on the Intel® Evo™ platform for high standards in performance
+            and battery life. Intel processors and graphics accelerate your productivity and editing
+            needs, giving you confidence for those everyday tasks.
+        </font>
+    </string>
+
+    <string name="deskAcerSplin5"><b>Processor</b> <font color="#878787">Intel Core i7-8550U (8th Gen)</font>
+        \n<b>RAM</b> <font color="#878787">	8 GB</font>
+        \n<b>Storage</b> <font color="#878787">512 GB SSD</font>
+        \n<b>Display</b> <font color="#878787">13.3 Inches</font>
+    </string>
+
+
+    <!--    kategori laptop - asus - asus zenbook 13 flip-->
+    <string name="tittleAsusz13flip"><b>Maximum display precision</b>
+        <font color="#878787">\nSeniman, fotografer, dan desainer akan menyukai apa yang ditawarkan
+            oleh tampilan NanoEdge yang dikombinasikan dengan ASUS Pen yang tersedia terpisah. Layar
+            sentuh sehalus sutra mendukung 4096 tingkat sensitivitas tekanan yang ditawarkan ASUS
+            Pen, memberikan pengalaman yang ditingkatkan yang menjadikan ZenBook Flip 13 pilihan
+            sempurna Anda untuk kreativitas kasual, membuat catatan, dan mengedit secara intuitif
+            di aplikasi yang didukung.
+        </font>
+        \n\n<b>Extreme battery life</b>
+        <font color="#878787">\nZenBook Flip 13 hadir dengan baterai berkapasitas tinggi yang
+            tidak akan mengecewakan Anda, betapapun lama dan beratnya hari kerja Anda. Teknologi
+            fast-charging memungkinkan Anda mengisi ulang hingga 60% kapasitas hanya dalam 49
+            menit, sehingga Anda dapat aktif dan bekerja lebih cepat dari sebelumnya. ASUS USB-C
+            Easy Charge memungkinkan Anda menggunakan berbagai pengisi daya USB-C standar untuk
+            pengisian daya yang nyaman saat bepergian.
+        </font>
+    </string>
+
+    <string name="deskAsusz13flip"><b>Processor</b> <font color="#878787">Intel Core i7 (8th Gen) Processor</font>
+        \n<b>RAM</b> <font color="#878787">	Intel Core i7 (8th Gen) Processor</font>
+        \n<b>Storage</b> <font color="#878787">	512 GB SSD</font>
+        \n<b>Display</b> <font color="#878787">	13.3" (33.78 cm) display, 1920 x 1080 px</font>
+    </string>
+
+
+    <!--    kategori laptop - asus - asus zenbook 14 flip-->
+    <string name="tittleAsusz14flip"><b>Unbounded beauty</b>
+        <font color="#878787">\nSDirancang untuk memberi Anda lebih banyak area layar dalam ruang
+            fisik yang lebih kecil, desain NanoEdge memiliki bezel yang lebih ramping di keempat
+            sisinya untuk membuat visual yang lebih mendalam, dengan sedikit gangguan untuk mata
+            Anda. Dilengkapi dengan fitur teknologi WideView untuk gambar yang jelas bahkan ketika
+            dilihat dari sudut ekstrim. ZenBook 14 memiliki tampilan yang tajam, jernih, resolusi
+            tinggi yang membuat visual apa pun terlihat terbaik, dengan sudut pandang lebar dan
+            warna yang jelas dan akurat.
+        </font>
+        \n\n<b>Extraordinary elegance</b>
+        <font color="#878787">\nNamun, tak satu pun dari gaya ZenBook tradisional yang hilang:
+            ada patern lingkaran logam ikonik yang terinspirasi dari Zen pada penutupnya dan
+            pilihan Royal Blue yang prestisius atau sentuhan akhir Icicle Silver yang canggih,
+            keduanya baru ditingkatkan dengan panel trim Rose Gold yang kontras di atas keyboard
+            untuk sentuhan ekstra mewah. Warna Royal Blue yang elegan terinspirasi oleh keindahan
+            matahari terbit keemasan yang menakjubkan di atas samudra biru tua. Icicle Silver yang
+            canggih mencerminkan kontras yang menakjubkan antara emas asli dan perak bulan,
+            pasangan serasi yang dirayakan dalam tema klasik ini.
+        </font>
+    </string>
+
+    <string name="deskAsusz14flip"><b>Processor</b> <font color="#878787"> Intel Core i7-10510U (10th Gen)</font>
+        \n<b>RAM</b> <font color="#878787">	16 GB</font>
+        \n<b>Storage</b> <font color="#878787">	512 GB SSD</font>
+        \n<b>Display</b> <font color="#878787">	14 Inches (35.56 cm)x</font>
+    </string>
+
+    <!--    kategori laptop - lenovo - legion 5i-->
+    <string name="tittleLenovolegion5i"><b>Streamlined power</b>
+        <font color="#878787">\nMenawarkan berbagai pilihan kinerja untuk semua level gamers,
+            Legion 5i memadukan fleksibilitas dengan kekuatan luar biasa, serta desain yang
+            stylish dan minimalis. Didukung oleh hingga 10th Gen Intel®Core™i7 H processors,
+            optional NVIDIA®GeForce GTX™graphics, dan banyak memori, tidak hanya Anda dapat
+            memainkan game AAA favorit Anda, tetapi mereka akan hidup kembali di layar Anda.
+        </font>
+        \n\n<b>Advanced Coldfront Cooling </b>
+        <font color="#878787">\nLegion 5i tetap tenang, sekeras apa pun Anda mendorongnya dengan
+            sistem Coldfront 2.0 yang mendinginkan dan menghilangkan panas melalui mekanisme
+            termal dua saluran dari 67 bilah kipas yang dilapisi polimer kristal cair dan pipa
+            tembaga. Ini artinya laptop Anda akan berjalan optimal, sehingga Anda selalu bisa
+            berada di puncak permainan Anda. Dan dengan Q Control 3.0 yang memungkinkan Anda untuk
+            memilih antara mode termal Quiet, Balance, dan Performance secara manual, Anda akan
+            serta merta berubah dari NOOBS menjadi seperti PRO. Juga, setiap laptop Legion memiliki
+            Dual Burn Support, mendorong CPU; GPU bersama untuk kinerja maksimal dalam game.
+        </font>
+    </string>
+
+    <string name="deskLenovolegion5i"><b>Processor</b> <font color="#878787"> Intel Core i7 11th Gen Core i7-11400H</font>
+        \n<b>RAM</b> <font color="#878787">	8 GB</font>
+        \n<b>Storage</b> <font color="#878787">	256GB</font>
+        \n<b>Display</b> <font color="#878787">	16 Inches</font>
+    </string>
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Kategori hp oppo reno 7 -->
+    <string name="tittlereno7"><b>Ultra-Sensing Selfie with IMX709</b>
+        <font color="#878787">\nExclusively designed by OPPO and built with Sony hardware,the IMX709 front camera image sensor boasts higher levels of light capturing abilities.
+            More light intake allows you to capture bright and clear images.
+        </font>
+        \n\n<b>Ultra-Slim Retro Design </b>
+        <font color="#878787">\nThe flat-edged frame and camera module stick to the classical aesthetic. But due attention is also paid to the requirements of modern life, as the ultra-slim design makes hours of holding a pleasure.
+        </font>
+    </string>
+    <string name="deskreno7"><b>Display</b> <font color="#878787">6.43 inches, 99.8 cm2</font>
+        \n<b>RAM</b> <font color="#878787">	8 GB</font>
+        \n<b>Storage</b> <font color="#878787">	128-256 GB</font>
+        \n<b>Camera</b> <font color="#878787">	32 MP, f/2.4, 24mm (wide), 1/2.74", 0.8µm</font>
+    </string>
+
+    <!-- Kategori hp oppo reno 7 5G -->
+    <string name="tittlereno75G"><b>Bokeh Flare - Potrait Video</b>
+        <font color="#878787">\nBersiaplah untuk merekam video ala DSLR impian Anda dengan Reno7 5G.
+            Dikombinasikan dengan Smart Skin Tone Protection AI spesial OPPO, baik dengan kamera depan atau belakang, saat siang atau malam, subjek video Anda akan selalu terlihat menonjol dengan latar belakang bokeh yang indah.
+        </font>
+        \n\n<b>Ultra Steady Video</b>
+        <font color="#878787">\nSaat Anda ingin merekam pendakian pagi Anda dengan kamera selfie, atau menangkap matahari terbenam dengan kamera belakang, video Anda dapat selalu stabil seperti seorang profesional.
+        </font>
+    </string>
+
+    <string name="deskreno75G"><b>Display</b> <font color="#878787">6.43 inches, 99.8 cm2</font>
+        \n<b>RAM</b> <font color="#878787">	8 GB</font>
+        \n<b>Storage</b> <font color="#878787">	128 GB</font>
+        \n<b>Camera</b> <font color="#878787">	64 MP, f/1.7, 26mm (wide), PDAF</font>
+    </string>
+
+    <!-- Kategori hp rog 5s-->
+    <string name="tittlerog5s"><b>Dare To Rule</b>
+        <font color="#878787">\nDelivering increased airflow directly to hotspots on the back cover of ROG Phone 5s, the AeroActive Cooler 5 clip-on external cooling fan can lower the surface temperature near the CPU by up to a stunning 15°C4. It also has two extra physical buttons to allow a genuine console-like control experience.
+        </font>
+        \n\n<b>Dare To Play</b>
+        <font color="#878787">\nThe monster 6000 mAh1 battery inside ROG Phone 5s combining with a 65-watt HyperCharge adapter is a great combo for mobile gamers to play on-the-go. Additionally, the charging features such as steady charging which allows control of the charging speeds and bypass charging for not charing the battery while gaming, all enable better battery performance and prolonged battery lifespan.
+        </font>
+    </string>
+    <string name="deskrog5s"><b>Display</b> <font color="#878787">6.78 inches, 109.5 cm2</font>
+        \n<b>RAM</b> <font color="#878787">	12 GB</font>
+        \n<b>Storage</b> <font color="#878787">	256 GB</font>
+        \n<b>Camera</b> <font color="#878787">	64 MP, f/1.8, 26mm (wide), 1/1.73", 0.8µm, PDAF</font>
+    </string>
+
+    <!-- Kategori hp vivo v20 -->
+    <string name="tittlevivov20"><b>The Clarity and Focus You Want</b>
+        <font color="#878787">\nHasil potret yang kaya akan warna dan ketajaman. Ultra HD pada 44MP Eye Autofocus mampu menangkap detail yang kompleks, dan dapat menghasilkan foto zoom yang sangat memukau ketika diabadikan.
+        </font>
+        \n\n<b>Reimagine The Night</b>
+        <font color="#878787">\nPotret malam yang tersembunyi dengan Super Night Mode yang didukung Tripod Night mode pada V20 2021 juga mampu meningkatkan stabilitas dan pencahayaan untuk membuat fotografi malam dengan hasil yang menakjubkan. Fitur fotografi lainnya termasuk: algoritma AI Noise cancellation, yang meningkatkan hasil natural foto; dan algoritma Sky Divider yang secara mulus memisahkan latar belakang fotomu dalam sentuhan otentik.
+        </font>
+    </string>
+
+    <string name="deskvivov20"><b>Display</b> <font color="#878787">6.44 inches, 100.1 cm2</font>
+        \n<b>RAM</b> <font color="#878787">	8 GB</font>
+        \n<b>Storage</b> <font color="#878787">	128 GB</font>
+        \n<b>Camera</b> <font color="#878787">	64 MP, f/1.9, 26mm (wide), 1/1.72", 0.8µm, PDAF</font>
+    </string>
+
+    <!-- Kategori hp vivo y12 -->
+    <string name="tittlevivoy12"><b>Ultra All Screen Display</b>
+        <font color="#878787">\nTampilan Y12 berukuran 6,35 inci dan rasio layar 19,3:9 dengan desain Ultra All Screen. Bezel yang sangat tipis di seluruh sisi membuat rasio layar-ke-bodi mencapai hingga 89% sehingga memberikan tampilan unggulan. Kini, Anda dapat menikmati tampilan yang lebih luas, serta mudah dikendalikan hanya dengan satu tangan berkat adanya gesture control yang didesain khusus.
+        </font>
+        \n\n<b>AI Super Wide-Angle Camera</b>
+        <font color="#878787">\nAI Super Wide-Angle Camera pada Y12 dapat memperluas pandangan Anda hingga 120°, sehingga Anda dapat menangkap lebih banyak pemandangan, teman, serta gambar yang mengesankan.
+        </font>
+    </string>
+    <string name="deskvivoy12"><b>Display</b> <font color="#878787">6.35 inches, 99.6 cm2</font>
+        \n<b>RAM</b> <font color="#878787">	4 GB</font>
+        \n<b>Storage</b> <font color="#878787">	64 GB</font>
+        \n<b>Camera</b> <font color="#878787">	13 MP, f/2.2, PDAF</font>
+    </string>
+
+    <!-- Kategori hp asus zenfone 8 -->
+    <string name="tittlezenfone"><b>Big On Performance. Compact In Size</b>
+     <font color="#878787">\n
+         Zenfone 8 adalah kombinasi performa super dengan kemasan compact dan mudah dioperasikan, kombinasi fitur lengkap dengan ukuran yang pas di kantong.
+         Zenfone 8 akan menawarkan kekuatan dari Qualcomm® Snapdragon™ 888 5G Mobile Platform, layar amoled super jernih 120 Hz untuk kualitas visual yang mengagumkan, baterai 4000 mAh dengan daya tahan panjang untuk bekerja atau bermain tanpa henti, dan sistem kamera pro-grade lengkap dengan sensor dari Sony.
+         Singkatnya, Zenfone 8 berperforma luar biasa, terlihat luar biasa, dan terasa luar biasa! </font>
+    </string>
+    <string name="deskzenfone"><b>Display</b> <font color="#878787">5.9 inches, 84.0 cm2</font>
+        \n<b>RAM</b> <font color="#878787">	16 GB</font>
+        \n<b>Storage</b> <font color="#878787">	256 GB</font>
+        \n<b>Camera</b> <font color="#878787">	64 MP, f/1.8, 26mm (wide), 1/1.73", 0.8µm, PDAF, OIS</font>
+    </string>
+
+
+    ASUS ZENFONE 5S
+
+
+</resources>

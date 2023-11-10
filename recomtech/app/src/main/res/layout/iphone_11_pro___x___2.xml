@@ -1,0 +1,365 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		mobile_skripsi
+	 *	@date 		1653923335174
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/iphone_11_pro___x___2" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_iphone_11_pro___x___2_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__iphone_11_pro___x___2_ek2"
+					android:background="@drawable/_bg__iphone_11_pro___x___2_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="375dp"
+					android:layout_height="812dp" />
+
+				<TextView android:id="@+id/smartphone"
+					android:fontFamily="Gruppo"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="24sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="17dp"
+					android:layout_marginTop="255dp"
+					android:layout_width="185dp"
+					android:layout_height="40dp"
+					android:text="@string/smartphone_string"
+					 />
+
+				<TextView android:id="@+id/smartphone_ek1"
+					android:fontFamily="Gruppo"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:alpha="0.15"
+					 android:textSize="24sp"
+					android:textColor="@color/_bg__iphone_11_pro___x___1_ek2_color"
+					android:layout_marginLeft="17dp"
+					android:layout_marginTop="295dp"
+					android:layout_width="185dp"
+					android:layout_height="18dp"
+					android:text="@string/smartphone_ek1_string"
+					 />
+
+				<TextView android:id="@+id/laptop"
+					android:fontFamily="Gruppo"
+					android:textSize="24sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="25dp"
+					android:layout_marginTop="436dp"
+					android:layout_width="122dp"
+					android:layout_height="40dp"
+					android:text="@string/laptop_string"
+					 />
+
+				<TextView android:id="@+id/laptop_ek1"
+					android:fontFamily="Gruppo"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:alpha="0.15"
+					 android:textSize="24sp"
+					android:textColor="@color/_bg__iphone_11_pro___x___1_ek2_color"
+					android:layout_marginLeft="-17dp"
+					android:layout_marginTop="476dp"
+					android:layout_width="185dp"
+					android:layout_height="18dp"
+					android:text="@string/laptop_ek1_string"
+					 />
+
+				<TextView android:id="@+id/camera"
+					android:fontFamily="Gruppo"
+					android:textSize="24sp"
+					android:textColor="@color/smartphone_color"
+					android:layout_marginLeft="25dp"
+					android:layout_marginTop="654dp"
+					android:layout_width="129dp"
+					android:layout_height="40dp"
+					android:text="@string/camera_string"
+					 />
+
+				<TextView android:id="@+id/camera_ek1"
+					android:fontFamily="Gruppo"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:alpha="0.15"
+					 android:textSize="24sp"
+					android:textColor="@color/_bg__iphone_11_pro___x___1_ek2_color"
+					android:layout_marginLeft="-13dp"
+					android:layout_marginTop="694dp"
+					android:layout_width="185dp"
+					android:layout_height="18dp"
+					android:text="@string/camera_ek1_string"
+					 />
+
+				<ImageView android:id="@+id/oliver_pecker_honjp8dyism_unsplash_1"
+					android:src="@drawable/oliver_pecker_honjp8dyism_unsplash_1"
+					android:contentDescription="oliver_pecker_honjp8dyism_unsplash_1"
+					 android:layout_marginStart="-1dp"
+					android:layout_marginTop="57dp"
+					android:layout_width="376dp"
+					android:layout_height="186dp" />
+
+
+				<RelativeLayout android:id="@+id/mask_group"
+					android:layout_marginTop="310dp"
+					android:layout_marginStart="24dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout android:id="@+id/black_samsung_logo_png_21_1"
+						android:layout_marginTop="89dp"
+						android:layout_marginStart="1dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/black_samsung_logo_png_21_1_ek1"
+							android:src="@drawable/black_samsung_logo_png_21_1_ek1"
+							android:contentDescription="black_samsung_logo_png_21_1_ek1"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="81.38dp"
+							android:layout_height="16.2dp" />
+
+					</RelativeLayout>
+
+					<ImageView android:id="@+id/samsung_galaxy_a20s_32gb_black_1"
+						android:src="@drawable/samsung_galaxy_a20s_32gb_black_1"
+						android:contentDescription="samsung_galaxy_a20s_32gb_black_1"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="75.83dp"
+						android:layout_height="86.85dp" />
+
+				</RelativeLayout>
+
+				<View   android:id="@+id/rectangle_2"
+					android:background="@drawable/rectangle_2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="375dp"
+					android:layout_height="57dp" />
+
+				<TextView android:id="@+id/home"
+					android:fontFamily="Goblin One"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="24sp"
+					android:textColor="@color/_bg__iphone_11_pro___x___1_ek2_color"
+					android:layout_marginLeft="10dp"
+					android:layout_marginTop="16dp"
+					android:layout_width="118dp"
+					android:layout_height="47dp"
+					android:text="@string/home_string"
+					 />
+
+				<ImageView android:id="@+id/_logo_menu_1"
+					android:src="@drawable/_logo_menu_1"
+					android:contentDescription="_logo_menu_1"
+					 android:layout_marginStart="319dp"
+					android:layout_marginTop="10dp"
+					android:layout_width="38dp"
+					android:layout_height="35dp" />
+
+
+				<RelativeLayout android:id="@+id/component_16"
+					android:layout_marginTop="314dp"
+					android:layout_marginStart="149dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/logo_vivo_1"
+						android:src="@drawable/logo_vivo_1"
+						android:contentDescription="logo_vivo_1"
+						 android:layout_marginStart="14dp"
+						android:layout_marginTop="84dp"
+						android:layout_width="49dp"
+						android:layout_height="14dp" />
+
+					<ImageView android:id="@+id/hp_vivo_1"
+						android:src="@drawable/hp_vivo_1"
+						android:contentDescription="hp_vivo_1"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="77dp"
+						android:layout_height="78dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/component_17"
+					android:layout_marginTop="314dp"
+					android:layout_marginStart="289dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/logo_oppo_1"
+						android:src="@drawable/logo_oppo_1"
+						android:contentDescription="logo_oppo_1"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="87dp"
+						android:layout_width="60dp"
+						android:layout_height="14dp" />
+
+					<ImageView android:id="@+id/hp_oppo_1"
+						android:src="@drawable/hp_oppo_1"
+						android:contentDescription="hp_oppo_1"
+						 android:layout_marginStart="1dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="56dp"
+						android:layout_height="78dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/component_19"
+					android:layout_marginTop="491dp"
+					android:layout_marginStart="14dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/laptop_acer_1"
+						android:src="@drawable/laptop_acer_1"
+						android:contentDescription="laptop_acer_1"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="149dp"
+						android:layout_height="93dp" />
+
+					<ImageView android:id="@+id/acer_1"
+						android:src="@drawable/acer_1"
+						android:contentDescription="acer_1"
+						 android:layout_marginStart="29dp"
+						android:layout_marginTop="116dp"
+						android:layout_width="100dp"
+						android:layout_height="32dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/component_18"
+					android:layout_marginTop="485dp"
+					android:layout_marginStart="211dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/laptop_asus_1"
+						android:src="@drawable/laptop_asus_1"
+						android:contentDescription="laptop_asus_1"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="1dp"
+						android:layout_width="160dp"
+						android:layout_height="105dp" />
+
+					<ImageView android:id="@+id/asus_logo_1"
+						android:src="@drawable/asus_logo_1"
+						android:contentDescription="asus_logo_1"
+						 android:layout_marginStart="28dp"
+						android:layout_marginTop="129dp"
+						android:layout_width="103dp"
+						android:layout_height="21dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/component_21"
+					android:layout_marginTop="701dp"
+					android:layout_marginStart="227dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/logo_nikon_1"
+						android:src="@drawable/logo_nikon_1"
+						android:contentDescription="logo_nikon_1"
+						 android:layout_marginStart="6dp"
+						android:layout_marginTop="76dp"
+						android:layout_width="71dp"
+						android:layout_height="18dp" />
+
+					<ImageView android:id="@+id/kamera_nikon_1"
+						android:src="@drawable/kamera_nikon_1"
+						android:contentDescription="kamera_nikon_1"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="83dp"
+						android:layout_height="57dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/component_20"
+					android:layout_marginTop="701dp"
+					android:layout_marginStart="71dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/kamera_canon_1"
+						android:src="@drawable/kamera_canon_1"
+						android:contentDescription="kamera_canon_1"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="82dp"
+						android:layout_height="73dp" />
+
+					<ImageView android:id="@+id/logo_canon_1"
+						android:src="@drawable/logo_canon_1"
+						android:contentDescription="logo_canon_1"
+						 android:layout_marginStart="1dp"
+						android:layout_marginTop="73dp"
+						android:layout_width="79dp"
+						android:layout_height="25dp" />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
